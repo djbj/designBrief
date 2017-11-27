@@ -1,4 +1,4 @@
-# Sprint 2 - The Design Brief
+            # Sprint 2 - The Design Brief
 
 Today you will for the first time work on a real design brief, your goal for today is to please the designer by copying the design as close as you can.
 
